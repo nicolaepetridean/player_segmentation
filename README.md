@@ -16,8 +16,8 @@ Playground for several instance segmentation algos
 	3.	analysis of the samples where we have biggest segmentation fauls. Probably post processing here can help. find Contours/ convex hull can help
 	4.	fine tune the model ideas: 
  		-	data augmentations : RGB shift, Random Brightness Contrast, Hue Saturation Value, deformation, color, blur, deformation, rotations
-   		-	play with resolution input - try different resolutions as input to model
-     		-	test time augmentation ??  - not very commercial friendly
+   		-	play with resolution input try different resolutions as input to model
+     		-	test time augmentation ?? not very commercial friendly
        		-	try different model optimisers:
 		-	try different LR schedullers
   		-	stochastic weight averadging
