@@ -19,9 +19,9 @@ Playground for several instance segmentation algos
    		- play with resolution input try different resolutions as input to model
 		- try different LR schedullers
   		- stochastic weight averadging
-    		- test time augmentation, not very commercial friendly
-       		- try different model optimisers
-    		- try multiple losses / weighted loss
+    	- test time augmentation, not very commercial friendly
+       	- try different model optimisers
+    	- try multiple losses / weighted loss
 	5.	split the big picture in smaller images, around the players that overlap the signs could potentially output a better segmentation, using SAM
 	6.	in order to avhieve step 4 we need to find a way to cluster players of interest vs. player not in the area of interest. my expectation is we can use model embeddings, maybe extracted with bbox-es arround the players. Clasification or clusterring of these model embeddings should help
  	7.	business specific requirements: depends on non functional requirements like model size, hardware various experiments can be tried.
