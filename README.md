@@ -28,9 +28,13 @@ Playground for several instance segmentation algos
   	8.	combine another decoder with sam encoder. (extract features with pretrained SAM, maybe experiment a bit with prompt encoder as well, and experiment by customizing the SAM decoder). Ensambles ?? 
   
 ### SAM training - weights and biasses screenshot
+mask vs predicted - vizualisation
+![Sam Training 2](images/mask_vs_predicted.png "Title")
 
-![Sam Training 1](images/sample_training_sam_sevelral_epochs.png "Title")
+Session 2
 ![Sam Training 2](images/sample_training_sam_session2.png "Title")
+Session 1
+![Sam Training 1](images/sample_training_sam_sevelral_epochs.png "Title")
 
 ### Unet training - 
 
