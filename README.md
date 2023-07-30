@@ -13,3 +13,8 @@ Playground for several instance segmentation algos
 ### SAM training - weights and biasses screenshot
 
 ![alt text](images/sample_training_sam_sevelral_epochs.png "Title")
+
+
+### Unet training - 
+
+![alt text](images/sample_training_unet.png "Title")
