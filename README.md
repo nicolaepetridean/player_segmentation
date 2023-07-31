@@ -29,6 +29,7 @@ Playground for several instance segmentation algos
   
 ### SAM training - weights and biasses screenshot
 mask vs predicted - vizualisation
+
 <img src="images/mask_vs_predicted.png" width="400" height="600" />
 
 Session 2 Training
