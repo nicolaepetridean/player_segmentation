@@ -8,6 +8,7 @@ Playground for several instance segmentation algos
 4. Script to generate video from consecutive frames
 5. Inference scripts
 6. Various debugging scripts
+7. Video generated based on segmented frames of the test video
 
 ### Ideas to improve the segmentation for the players overlapping the LED:
 
