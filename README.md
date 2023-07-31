@@ -32,9 +32,9 @@ mask vs predicted - vizualisation
 ![Sam Training 2](images/mask_vs_predicted.png "Title" width="100")
 
 Session 2
-![Sam Training 2](images/sample_training_sam_session2.png "Title" width="500")
+![Sam Training 2](images/sample_training_sam_session2.png =250x250 "Title")
 Session 1
-![Sam Training 1](images/sample_training_sam_sevelral_epochs.png "Title" width="500")
+![Sam Training 1](images/sample_training_sam_sevelral_epochs.png =250x250 "Title")
 
 ### Unet training - 
 
