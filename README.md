@@ -11,7 +11,8 @@ Playground for several instance segmentation algos
 
 ### Ideas to improve the segmentation for the players overlapping the LED:
 
-	1.	in my opinion the led segmentation masks, would help the model better clasify the pixels belonging to the players vs led - should be explored the idea to add led segmentation masks
+	1.	in my opinion the led segmentation masks, would help the model better clasify the pixels 
+ 	belonging to the players vs led - should be explored the idea to add led segmentation masks
  	2.	add external images / increase dataset
 	3.	analysis of the samples where we have biggest segmentation fauls. Probably post processing here can help. find Contours/ convex hull can help
 	4.	fine tune the model ideas: 
