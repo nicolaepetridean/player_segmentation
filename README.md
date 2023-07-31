@@ -27,7 +27,7 @@ Playground for several instance segmentation algos
 	6.	in order to avhieve step 4 we need to find a way to cluster players of interest vs. player not in the area of interest. my expectation is we can use model embeddings, maybe extracted with bbox-es arround the players. Clasification or clusterring of these model embeddings should help
  	7.	business specific requirements: depends on non functional requirements like model size, hardware various experiments can be tried.
   	8.	combine another decoder with sam encoder. (extract features with pretrained SAM, maybe experiment a bit with prompt encoder as well, and experiment by customizing the SAM decoder). Ensambles ?? 
-   	9	Research on a better SAM fine-tune procedure.
+   	9.	Research on a better SAM fine-tune procedure.
   
 ### SAM training - weights and biasses screenshot
 mask vs predicted - vizualisation
