@@ -30,10 +30,13 @@ Playground for several instance segmentation algos
 ### SAM training - weights and biasses screenshot
 mask vs predicted - vizualisation
 <img src="images/mask_vs_predicted.png" width="400" height="600" />
+
 Session 2 Training
 <img src="images/sample_training_sam_session2.png" width="1000" height="400" />
+
 Session 1 Training
 <img src="images/sample_training_sam_sevelral_epochs.png" width="1000" height="400" />
-### Unet training - 
+
+### Unet training
 
 <img src="images/sample_training_unet.png" width="400" height="200" />
