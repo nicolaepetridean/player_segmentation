@@ -39,3 +39,4 @@ Session 1
 ### Unet training - 
 
 ![alt text](images/sample_training_unet.png =250x)
+<img src="images/sample_training_unet.png" width="200" height="200" />
