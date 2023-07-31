@@ -29,7 +29,7 @@ Playground for several instance segmentation algos
  	7.	business specific requirements: depends on non functional requirements like model size, hardware various experiments can be tried.
   	8.	combine another decoder with sam encoder. (extract features with pretrained SAM, maybe experiment a bit with prompt encoder as well, and experiment by customizing the SAM decoder). Ensambles ?? 
    	9.	Research on a better SAM fine-tune procedure.
-10. 	Use sam notebook to create segmentation for led as input to manual led segmentation.
+    	10. 	Use sam notebook to create segmentation for led as input to manual led segmentation.
   
 ### SAM training - weights and biasses screenshot
 mask vs predicted - vizualisation
